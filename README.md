@@ -46,8 +46,13 @@
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
 </a>
      <a href="tel:+21621164245">
-    <img src="https://img.shields.io/badge/Call-ME-blue?style=for-the-badge&logo=phone&logoColor=white">
+    <img src="https://img.shields.io/badge/Call-21164245-blue?style=for-the-badge&logo=phone&logoColor=white">
 </a>
+
+<a href="https://wa.me/21621164245">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
 
 
 </a>
