@@ -45,13 +45,10 @@
          onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 15px rgba(0,255,0,0.5)';" 
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
 </a>
-     <a href="tel:+21621164245" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Call-007BFF?style=for-the-badge&logo=phone&logoColor=white" 
-         alt="Call Me" 
-         style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;"
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 15px rgba(0,123,255,0.5)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+     <a href="tel:+21621164245">
+    <img src="https://img.shields.io/badge/Call-ME-blue?style=for-the-badge&logo=phone&logoColor=white">
 </a>
+
 
 </a>
 
