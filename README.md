@@ -45,7 +45,11 @@
          onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 15px rgba(0,255,0,0.5)';" 
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
 </a> <br />
+        ## 📬 Contact Me
+        <!-- write here call phone -->
+        <p align="center">
         [![Call Me](https://img.shields.io/badge/Call-📞%20211-642-45-purple?style=for-the-badge&logo=phone&logoColor=white)](tel:+21621164245)
+        </p>
 
 
 </a>
