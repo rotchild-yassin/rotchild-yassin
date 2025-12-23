@@ -45,7 +45,7 @@
          onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 15px rgba(0,255,0,0.5)';" 
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
 </a>
-     <a href="tel:21164245">
+     <a href="tel:+21621164245">
     <img src="https://img.shields.io/badge/Call-21164245-blue?style=for-the-badge&logo=phone&logoColor=white">
 </a>
 
