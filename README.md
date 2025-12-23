@@ -44,13 +44,12 @@
          style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;"
          onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 15px rgba(0,255,0,0.5)';" 
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-</a> <br />
-        ## 📬 Contact Me
-        <!-- write here call phone -->
+</a><br />
         <p align="center">
-        [![Call Me](https://img.shields.io/badge/Call-📞%20211-642-45-purple?style=for-the-badge&logo=phone&logoColor=white)](tel:+21621164245)
-        </p>
-
+  <a href="tel:+21621164245" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/📞%20Call%20Me-%2B216%20211%20642%2045-purple?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me">
+  </a>
+</p>
 
 </a>
 
