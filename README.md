@@ -46,7 +46,7 @@
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
 </a><br />
         <p align="center">
-  <a href="tel:+21621164245" style="text-decoration:none;">
+  <a href="[![Call Me](https://img.shields.io/badge/Call-📞%20%2B216%20211%20642%2045-purple?style=for-the-badge&logo=phone&logoColor=white)](tel:+21621164245)" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/📞%20Call%20Me-%2B216%20211%20642%2045-purple?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me">
   </a>
 </p>
@@ -99,7 +99,7 @@ const yassin = {
   name: "Yassin Chihaoui",
   role: "Full Stack Web Developer",
   location: "Tunis, Tunisia 🇹🇳",
-  experience: "6+ Years",
+  experience: "5+ Years",
 
   code: ["JavaScript", "TypeScript", "PHP", "HTML5", "CSS3", "SQL"],
 
